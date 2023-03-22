@@ -13,13 +13,13 @@ const Features = () => {
         {/* IMAGE  */}
         <div className="md:w-[50%]">
         
-        <LazyLoad height={100} offset={-100}>
+        
             <img
               src={aside1}
               alt="domain + professional email"
               className="sm:max-h-[410px] md:max-h-full md:order-last"
             />
-          </LazyLoad>
+          
         </div>
         {/* TEXT */}
         <div className="flex sm:flex-col md:flex-col md:w-[50%] md:p-4 lg:px-[52px] sm:px-4 md:order-first">
@@ -46,13 +46,13 @@ const Features = () => {
       <div className="flex md:flex-row sm:flex-col items-center lg:mb-8 sm:mb-6 border">
         {/* IMAGE  */}
         <div className="md:w-[50%]">
-        <LazyLoad height={100} offset={-100}>
+        
           <img
             src={aside2}
             alt="domain + professional email"
             className="sm:max-h-[410px] md:max-h-full"
           />
-          </LazyLoad>
+          
         </div>
         {/* TEXT */}
         <div className="flex sm:flex-col md:flex-col  md:w-[50%] md:p-4 lg:px-[52px] sm:px-4">
@@ -78,13 +78,13 @@ const Features = () => {
       <div className="flex md:flex-row sm:flex-col items-center lg:mb-8 sm:mb-6 border">
         {/* IMAGE  */}
         <div className="md:w-[50%]">
-          <LazyLoad height={200} offset={-100}>
+          
             <img
               src={aside3}
               alt="domain + professional email"
               className="sm:max-h-[410px] md:max-h-full md:order-last"
             />
-          </LazyLoad>
+          
         </div>
         {/* TEXT */}
         <div className="flex sm:flex-col md:flex-col  md:w-[50%] md:p-4 sm:px-4 md:order-first">
@@ -146,13 +146,13 @@ const Features = () => {
       <div className="flex md:flex-row sm:flex-col items-center lg:mb-10 sm:mb-6 border">
         {/* IMAGE  */}
         <div className="md:w-[50%]">
-        <LazyLoad height={100} offset={-100}>
+        
           <img
             src={aside5}
             alt="domain + professional email"
             className="sm:max-h-[410px] md:max-h-full md:order-last"
           />
-          </LazyLoad>
+         
         </div>
         {/* TEXT */}
         <div className="flex sm:flex-col md:flex-col  md:w-[50%] md:p-4 sm:px-4 md:order-first">
