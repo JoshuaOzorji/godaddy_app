@@ -36,7 +36,7 @@ const Features = () => {
 
           <button
             type="button"
-            className="text-black sm:max-w-[120px] md:max-w-[10rem] bg-white  rounded border-2 text-sm px-5 py-3 text-center mb-4 border-gray-900 hover:text-[#00838C] hover:scale-105 font-medium"
+            className="text-black sm:max-w-[120px] md:max-w-[10rem] bg-white  rounded border-2 text-sm px-4 py-3 text-center mb-4 border-gray-900 hover:text-[#00838C] hover:scale-105 font-medium"
           >
             Get Started
           </button>
@@ -100,7 +100,7 @@ const Features = () => {
 
           <button
             type="button"
-            className="text-black sm:max-w-[120px] md:max-w-[8rem] bg-white  rounded border-2 text-sm px-5 py-3 text-center mb-4 border-gray-900 hover:text-[#00838C] hover:scale-105 font-medium"
+            className="text-black sm:max-w-[120px] md:max-w-[8rem] bg-white  rounded border-2 text-sm px-4 py-3 text-center mb-4 border-gray-900 hover:text-[#00838C] hover:scale-105 font-medium"
           >
             Get Started
           </button>
