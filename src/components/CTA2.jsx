@@ -8,6 +8,7 @@ import { HiSearch } from "react-icons/hi";
 const CTA2 = () => {
   return (
     <section className="md:mt-[48px]">
+    
       {/* LG BREAKPOINT */}
       <div className="w-full relative lg:flex sm:hidden">
         <img src={gdlogo1} className="h-max" />
